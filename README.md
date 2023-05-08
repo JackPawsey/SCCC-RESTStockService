@@ -1,5 +1,7 @@
 # RESTStockService
 
+Uni third year coursework
+
 The REST Stock Service caches external API responses into the directory “Cached Responses”
 
 Here the response from each stock call is cached into a JSON file e.g. “AAPL-response.json”.
